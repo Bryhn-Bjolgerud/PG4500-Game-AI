@@ -19,7 +19,7 @@ fremgangen sin.
 
 ![Pathfinding enclosure](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameAireadmebilde3.png)
 
-A* Pathfinding innhegningen. Et eksempel på hvordan et utført A* søk i spillet. 
+A* Pathfinding innhegningen. Et eksempel på hvordan et utført A* søk ser ut i spillet. 
 
 
 
