@@ -18,3 +18,13 @@ man har kommet, ettersom at inntil det meste er på plass, så kan man ikke spil
 spillet. Jeg fikk en idé om å lage spillet mitt som en dyrehage. Da stod alle delene fra
 pensum alene, og ettersom at en og en innhegning ble ferdig var det lett å måle
 fremgangen sin.
+
+
+## Sources
+Pensumboken - Ian Millington, John Funge, Artificial Intelligence for Games
+https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-collision-avoidance--gamedev-7777
+https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-flee-and-arrival--gamedev-1303
+https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-leader-following--gamedev-10810
+https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-wander--gamedev-1624
+https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
+https://www.redblobgames.com/pathfinding/a-star/implementation.html
