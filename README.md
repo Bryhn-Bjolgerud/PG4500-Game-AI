@@ -17,7 +17,7 @@ pensum alene, og ettersom at en og en innhegning ble ferdig var det lett å mål
 fremgangen sin.
 
 
-              ![Pathfinding enclosure](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameaireadmebilde2.png)
+![Pathfinding enclosure](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameAireadmebilde3.png)
 
 A* Pathfinding innhegningen. Et eksempel på hvordan et utført A* søk i spillet. 
 
