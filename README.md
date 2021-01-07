@@ -4,6 +4,7 @@
 
 
 ![Pathfinding enclosure](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameaireadmebilde2.png)
+
 A* Pathfinding innhegningen. Et eksempel på hvordan et utført A* søk i spillet. 
 
 
