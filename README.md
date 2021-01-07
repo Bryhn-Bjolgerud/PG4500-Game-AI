@@ -2,8 +2,10 @@
 
 ![Intro screen](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameaiReadmebilde1.png)
 
-A* Pathfinding innhegningen. Et eksempel på hvordan et utført A* søk i spillet. 
+
 ![Pathfinding enclosure](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameaireadmebilde2.png)
+A* Pathfinding innhegningen. Et eksempel på hvordan et utført A* søk i spillet. 
+
 
 Oppgaven vi fikk utdelt gikk ut på å lage et spill i Unity. Spillet måtte vise
 at vi behersket ​ _steering behaviours_ ​, ​ _state machines_ ​ og ​ _pathfinding_ ​. Måten man
@@ -22,9 +24,15 @@ fremgangen sin.
 
 ## Sources
 Pensumboken - Ian Millington, John Funge, Artificial Intelligence for Games
+
 https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-collision-avoidance--gamedev-7777
+
 https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-flee-and-arrival--gamedev-1303
+
 https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-leader-following--gamedev-10810
+
 https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-wander--gamedev-1624
+
 https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
+
 https://www.redblobgames.com/pathfinding/a-star/implementation.html
