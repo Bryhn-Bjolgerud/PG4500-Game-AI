@@ -2,12 +2,6 @@
 
 ![Intro screen](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameaiReadmebilde1.png)
 
-
-![Pathfinding enclosure](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameaireadmebilde2.png)
-
-A* Pathfinding innhegningen. Et eksempel på hvordan et utført A* søk i spillet. 
-
-
 Oppgaven vi fikk utdelt gikk ut på å lage et spill i Unity. Spillet måtte vise
 at vi behersket ​ _steering behaviours_ ​, ​ _state machines_ ​ og ​ _pathfinding_ ​. Måten man
 gjorde dette på var helt opp til oss, oppgaven var dermed utrolig fri. Det ble gitt et
@@ -21,6 +15,13 @@ man har kommet, ettersom at inntil det meste er på plass, så kan man ikke spil
 spillet. Jeg fikk en idé om å lage spillet mitt som en dyrehage. Da stod alle delene fra
 pensum alene, og ettersom at en og en innhegning ble ferdig var det lett å måle
 fremgangen sin.
+
+
+              ![Pathfinding enclosure](https://github.com/Bryhn-Bjolgerud/images/blob/main/gameaireadmebilde2.png)
+
+A* Pathfinding innhegningen. Et eksempel på hvordan et utført A* søk i spillet. 
+
+
 
 
 ## Sources
